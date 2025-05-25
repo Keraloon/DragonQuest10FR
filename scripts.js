@@ -40,6 +40,11 @@ const texte1 = `Bienvenue, ceci est un tutoriel qui vous expliquera comment obte
   
   
   
+
+
+
+
+
   
   
   
@@ -47,7 +52,7 @@ const texte1 = `Bienvenue, ceci est un tutoriel qui vous expliquera comment obte
   
   
   
-  Et si vous n'avez pas les moyens de faire tout ça.. bon bah si "/index.html" se trouve sur le lien dans votre barre de recherche; retirez le, puis rajoutez "/sites.html" juste après ".io" sur le lien du site
+  Et si vous n'avez pas les moyens de faire tout ça.. bon bah si "/index.html" se trouve sur le lien dans votre barre de recherche; retirez le, puis rajoutez "/sites.html" juste après "DragonQuest10FR/" sur le lien du site
 `;
 
 
