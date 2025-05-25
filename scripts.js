@@ -59,7 +59,7 @@ const texte1 = `Bienvenue, ceci est un tutoriel qui vous expliquera comment obte
 
 
 
-const texte2 = `La traduction Française se trouve sur la page <a href="https://github.com/Keraloon/DragonQuestXOfflineFR" target="_blank">Github</a> et sera sur NexusMods très bientot ;)
+const texte2 = `La traduction Française se trouve sur la page <a href="https://github.com/Keraloon/DragonQuestXOfflineFR" target="_blank">Github</a> et sur la page <a href="https://www.nexusmods.com/dragonquestxoffline/mods/10" target="_blank">NexusMods</a> !
 
 Le <a href="https://docs.google.com/spreadsheets/d/18tu-NqD5KI0jJu-YT-31EITN1g67V1SND-ZGSqkGMpM/" target="_blank">Google Docs</a>  de la traduction du jeu est toujours pas fini, donc si vous souhaitez aider pour quelques lignes, n'hésitez pas!
 
