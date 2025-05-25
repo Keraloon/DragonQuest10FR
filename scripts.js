@@ -95,6 +95,9 @@ const texte3 = `Vous pouvez également trouver la traduction FR de <strong>Drago
 
 Si jamais vous voulez me contacter, pour des bugs, des erreurs, des incompréhensions, ou tout autre, vous pouvez me retrouver sur <a href="https://twitter.com/Keraloon" target="_blank">Twitter</a>, <a href="https://bsky.app/profile/keraloon.bsky.social" target="_blank">Bluesky</a>, <a href="https://twitch.tv/Keraloon" target="_blank">Twitch</a>, <a href="https://discord.gg/8trjMsm36k" target="_blank">Discord</a>  etc..
 
+
+
+Note à savoir : Le site est un recyclage d'un autre site crée il y'a quelques temps avec l'aide de ChatGPT (surtout pour le CSS en fait), je pense que cette information est importante pour la transparence
 `;
 
 textBox.innerHTML = texte1;
