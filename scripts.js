@@ -97,7 +97,7 @@ Si jamais vous voulez me contacter, pour des bugs, des erreurs, des incompréhen
 
 
 
-Note à savoir : Le site est un recyclage d'un autre site crée il y'a quelques temps avec l'aide de ChatGPT (surtout pour le CSS en fait), je pense que cette information est importante pour la transparence
+Note à savoir : Le site est un recyclage d'un autre site crée il y'a quelques temps avec l'aide de ChatGPT (surtout pour le CSS en fait), je pense que cette information est importante pour la transparence, désolée :(
 `;
 
 textBox.innerHTML = texte1;
