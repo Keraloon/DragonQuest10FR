@@ -68,15 +68,10 @@ Les fichiers PAKs se trouvent dans le dossier Game/Content/Paks, il faut les ajo
 <strong>Statut de la traduction :</strong> (Scrollez jusqu'en bas)
 Cinématique Histoire Principale : <strong>100%</strong>, Post Game <a>~15%</a>
 
-Textes Plaisantrin : <a>?%</a>
-Textes Nain : <a>?%</a>
-Textes Ogre : <a>?%</a>
-Textes Nhumide : <a>?%</a>
-Textes Elfe : <a>?%</a>
-Textes Humain : <a>?%</a>
 
 Dialogues Hors Cinématique : Peut être <a>10%</a>
-Lieux : <strong>100%</strong>
+Villes : <a>~50%</a>
+Noms des Lieux : <strong>100%</strong>
 
 Monstres : <strong>100%</strong> Description : <a>0%</a>
 Objets Communs : <strong>100%</strong>. Description <strong>100%</strong>
@@ -87,7 +82,7 @@ Accessoires : <strong>100%</strong>. Description : <strong>100%</strong>
 Sorts : <strong>100%</strong>. Description : <strong>100%</strong>
 Aptitudes : <strong>100%</strong>. Description : <strong>100%</strong>
 
-Quêtes : <a>6.25%</a>
+Quêtes : <a>13%</a>
 
 UI: Je sais pas mais <a>pas mal %</a>
 Textes en Combat : <a>~75 %</a>
