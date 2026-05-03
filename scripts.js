@@ -59,36 +59,11 @@ const texte1 = `Bienvenue, ceci est un tutoriel qui vous expliquera comment obte
 
 
 
-const texte2 = `La traduction Française se trouve sur la page <a href="https://github.com/Keraloon/DragonQuestXOfflineFR" target="_blank">Github</a> et sur la page <a href="https://www.nexusmods.com/dragonquestxoffline/mods/10" target="_blank">NexusMods</a> !
+const texte2 = `La traduction Française se trouve sur la page <a href="https://www.nexusmods.com/dragonquestxoffline/mods/10" target="_blank">NexusMods</a> (et sur la page <a href="https://github.com/Keraloon/DragonQuestXOfflineFR" target="_blank">Github</a> mais j'ai pas mis à jour depuis longtemps) !
 
 Le <a href="https://docs.google.com/spreadsheets/d/18tu-NqD5KI0jJu-YT-31EITN1g67V1SND-ZGSqkGMpM/" target="_blank">Google Docs</a>  de la traduction du jeu est toujours pas fini, donc si vous souhaitez aider pour quelques lignes, n'hésitez pas!
 
-Les fichiers PAKs se trouvent dans le dossier Game/Content/Paks, il faut les ajouter dedans, puis lancer le jeu (Pour la version switch, une version arrivera en temps voulu)
-
-<strong>Statut de la traduction :</strong> (Scrollez jusqu'en bas)
-Cinématique Histoire Principale : <strong>100%</strong>, Post Game <a>~15%</a>
-
-
-Dialogues Hors Cinématique : Peut être <a>10%</a>
-Villes : <a>~50%</a>
-Noms des Lieux : <strong>100%</strong>
-
-Monstres : <strong>100%</strong> Description : <a>0%</a>
-Objets Communs : <strong>100%</strong>. Description <strong>100%</strong>
-Objets Rare : <strong>100%</strong>. Description : <strong>100%</strong>
-Armes : <strong>100%</strong>. Description : <strong>100%</strong>
-Equipement : <strong>100%</strong>. Description : <strong>100%</strong>
-Accessoires : <strong>100%</strong>. Description : <strong>100%</strong>
-Sorts : <strong>100%</strong>. Description : <strong>100%</strong>
-Aptitudes : <strong>100%</strong>. Description : <strong>100%</strong>
-
-Quêtes : <a>13%</a>
-
-UI: Je sais pas mais <a>pas mal %</a>
-Textes en Combat : <a>~75 %</a>
-Restes : <a>Très peu %</a>
-
-
+Les fichiers PAKs se trouvent dans le dossier Game/Content/Paks, il faut les ajouter dedans, puis lancer le jeu (Pour la version switch, veuillez bien lire la page Nexus)
 `;
 
 const texte3 = `Vous pouvez également trouver la traduction FR de <strong>Dragon Quest Monsters : Terry's Wonderland 3D</strong> sur ma page <a href="https://github.com/Keraloon/French-Translation-DQMT3D" target="_blank">Github</a>.
